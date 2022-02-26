@@ -1,0 +1,4 @@
+  const[Amarillo, setAmarillo] = useState('../../img/focoOn.png');
+  const[Rojo, setRojo] = useState('../../img/focoRojo.png');
+  const[Azul, setAzul] = useState('../../img/focoAzul.png');
+  const[Verde, setVerde] = useState('../../img/focoVerde.png');
